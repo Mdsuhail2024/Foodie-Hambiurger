@@ -135,6 +135,10 @@ main {
     background-color: transparent;
     backdrop-filter: blur(8px);
   }
+  .section .img-container {
+    max-width: 260px;
+  margin-inline: auto;
+  }
   nav {
     padding: 15px 16px;
     margin-top: 150px;
